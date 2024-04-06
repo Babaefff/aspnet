@@ -15,8 +15,8 @@ namespace EmailBombardman
         static void Main(string[] args)
         {
             
-            string FromMail = "thedotnetchannelsender22@gmail.com";
-            string FromPassword = "lgioehkvchemfkrw";
+            string FromMail = "twqddhqo@gmail.com";
+            string FromPassword = "lodihqpwdqwd";
 
             MailMessage message = new MailMessage();    
             message.From = new MailAddress(FromMail);
